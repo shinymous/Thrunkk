@@ -23,7 +23,7 @@ public class Cidade {
         this.nome = nome;
         this.estado = estado;
     }
-
+    /////////////////////////////////////////////////s
     @Override
     public String toString() {
         return "Cidade{" + "id=" + id + ", nome=" + nome + ", estado=" + estado + '}';
